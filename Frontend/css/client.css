@@ -1,0 +1,21 @@
+body
+{
+	font-size:15px;
+	font: Verdana, sans-serif;
+	background-color: #cceeff;
+	text-align: center;
+}
+
+h1{
+	color: #6666ff;
+}
+
+h3{
+	color: #744427;
+}
+
+li { 
+   list-style-position:inside;
+}
+
+			
